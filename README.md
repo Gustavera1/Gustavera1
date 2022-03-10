@@ -6,7 +6,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.gg/TPM6x6u)
 
 ![Gustavera GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavera1&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavera1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que utilizo no dia a dia
 
