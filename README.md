@@ -7,7 +7,7 @@
 
 ![Gustavera GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavera1&show_icons=true&theme=dark)
 
-### Tecnologias que utilizo no dia a dia
+### Ferramentas e Frameworks
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 
